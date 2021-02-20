@@ -1,7 +1,7 @@
 # Mis Estadisticas
 <p align="center"><a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=FabriSoftware&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=nord" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FabriSoftware&langs_count=4&count_private=true&theme=nord" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FabriSoftware&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FabriSoftware&langs_count=4&count_private=true&theme=radical" />
 </a></p>
 <p align="center"><a href="#">
   <img src="https://github-profile-trophy.vercel.app/?username=FabriSoftware&margin-w=28&margin-h=15&theme=nord" />
